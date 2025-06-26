@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Manish Singh",
+    "title": "Xiaomi winds down financial services business in India",
+    "description": "Xiaomi has discontinued its financial services in India, three years after launching payment and lending apps in the country.",
+    "url": "https://techcrunch.com/2022/10/27/xiaomi-winds-down-financial-services-business-in-india/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/xiaomi-india-financial-services.jpg?resize=1200,796",
+    "publishedAt": "2022-10-28T06:01:17Z",
+    "content": "Xiaomi has quietly discontinued its financial services in India, less than three years after launching payment and lending apps in the key global market, two sources familiar with the matter told Tec… [+2824 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rita Liao",
+    "title": "US sanctions on China could extend to biotech, official says",
+    "description": "On the heels of the Biden administration’s decision to impose sweeping chip sanctions on China, there are signs that China might also lose access to other types of critical U.S. technologies including biotechnology, an area that has historically seen close co…",
+    "url": "https://techcrunch.com/2022/10/27/us-sanctions-on-china-biotech-ai-quantum-computing/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
+    "publishedAt": "2022-10-28T05:21:43Z",
+    "content": "On the heels of the Biden administration’s decision to impose sweeping chip sanctions on China, there are signs that China might also lose access to other types of critical U.S. technologies includin… [+3765 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Amanda Silberling",
+    "title": "Elon Musk fired top Twitter execs including CEO, reports say",
+    "description": "According to these reports, Musk fired CEO Parag Agrawal, CFO Ned Segal, and other top executives at Twitter.",
+    "url": "https://techcrunch.com/2022/10/27/elon-musk-fired-top-twitter-execs-including-ceo-reports-say/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242798333.jpg?resize=1200,675",
+    "publishedAt": "2022-10-28T01:09:18Z",
+    "content": "Elon Musk fired key Twitter executives Thursday, one of his first moves as the official owner of the social media platform. According to reports from the New York Times, CNBC, theWall Street Journal,… [+602 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Daily Crunch: Mason raises $7.5M seed round to scale its no-code commerce engine",
+    "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2022/10/27/daily-crunch-mason-raises-7-5m-seed-round-to-scale-its-no-code-commerce-engine/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/mason-founders-image.jpg",
+    "publishedAt": "2022-10-27T20:51:02Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nHello! And its Thursday! We are all waiting with bated breath for t… [+5125 chars]"
+    }
+    ]
+    }
+
+   
